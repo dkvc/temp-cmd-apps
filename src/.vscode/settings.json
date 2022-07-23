@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/usr/lib/jvm/openjfx8/rt/lib/ext/jfxrt.jar"
+    ]
+}
