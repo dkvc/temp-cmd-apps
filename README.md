@@ -10,6 +10,6 @@ These are command line applications that run only when program is run and don't 
 3. WebStatus - checks status of web page (also gives image of cat if asked) and records its changes.
 
 ## Credits
-1. [HTTP Cat]("https://http.cat/") - used for web status.
-2. [MD5]("https://en.wikipedia.org/wiki/MD5") - used for MD5 hash.
-3. [HTTP Error Codes]("https://gist.github.com/sandrabosk/d125177b31eca8dc3e5c524e703ba94d") - used for list of HTTP error codes.
+1. ![HTTP Cat]("https://http.cat/") - used for web status.
+2. ![MD5]("https://en.wikipedia.org/wiki/MD5") - used for MD5 hash.
+3. ![HTTP Error Codes]("https://gist.github.com/sandrabosk/d125177b31eca8dc3e5c524e703ba94d") - used for list of HTTP error codes.
