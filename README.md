@@ -1,6 +1,9 @@
 # temp-cmd-apps
 Temporary (Stored on Memory) command line applications
 
+# What's this?
+This repository consists of small command line applications made during initial years of my university and submitted as End Semester project for course Data Structures and Algorithms.
+
 ## Explanation
 These are command line applications that run only when program is run and don't work in background. These are created for understanding the importance of data structures, algorithms and command-line applications.
 
